@@ -1,6 +1,14 @@
 {
+    "DiscordPresentSignature": "55 41 57 41 56 56 57 53 48 83 EC 38 48 8D 6C 24 ? 44 89 C6",
+    "OBSPresentSignature": "48 89 74 24 20 57 41 54 41 57",
+    "W10PresentSignature": "48 89 5C 24 ? 48 89 74 24 ? 55 57 41 56 48 8D 6C 24 ? 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 45 60",
+    "W11PresentSignature": "48 89 5C 24 ? 55 56 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 45 37 41 8B F0",
+    "W1124H2PresentSignature": "48 89 5C 24 ? 48 89 74 24 ? 55 57 41 56 48 8D 6C 24 ? 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 45 ? 45 33 F6",
+
     "GObjects": "0x438C890",
     "GNames": "0x43D4790",
     "UWorld": "0x43A5758",
-    "PEIndex": "0x4E"
+    "PEIndex": "0x4E",
+
+    "Actors": "0x0088"
 }
